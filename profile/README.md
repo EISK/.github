@@ -20,9 +20,6 @@ Utilities and code samples as provided in EISK have intentionally been designed 
 
 * [Live Demo](https://eiskwebapi.azurewebsites.net)
 * [Getting Started](https://eisk.github.io/eisk.webapi/docs/get-started/index.html)
-* [Hands-on Walk-through](https://eisk.github.io/eisk.webapi/docs/application-development/handson-walkthrough-create-service-api.html)
-* [Logical Layer Architecture](https://eisk.github.io/eisk.webapi/docs/architecture/logical-layers.html)
-* [Technology Stack](https://eisk.github.io/eisk.webapi/docs/technical-reference/technology-stack.html)
 
 [![Build status](https://dev.azure.com/EiskOps/Eisk/_apis/build/status/Eisk-WebApi-TemplatePack-CI)](https://dev.azure.com/EiskOps/Eisk/_build/latest?definitionId=3) 
 
