@@ -4,9 +4,7 @@ With an optional set of customizable utility classes, samples and tools, it lets
 
 ### Core Technology Areas
 
-* ASP.NET Core (Web Api) / Entity Framework Core / C# 
-* Visual Studio 
-* Azure App Services 
+* ASP.NET Core (Web Api) / Entity Framework Core / C# / Visual Studio / Azure App Services 
 
 ### Simple Use Case
 
@@ -14,12 +12,9 @@ Using a simple table entity 'Employee' it demonstrates all aspect of web develop
 
 ### What's Next?
 
-Next - you can try some hands-on experience by creating your own api on top of your custom entity and see how quickly you can roll out an enterprise quality web api with similar quality and productivity. 
-
 Utilities and code samples as provided in EISK have intentionally been designed to be self explaining. You may still want to get deeper understanding by exploring the documentations:
 
 * [Live Demo](https://eisk-webapi.azurewebsites.net/index.html)
 * [Getting Started](https://eisk.github.io/eisk.webapi/docs/get-started/index.html)
 
 [![Build status](https://dev.azure.com/EiskOps/Eisk/_apis/build/status/Eisk-WebApi-TemplatePack-CI)](https://dev.azure.com/EiskOps/Eisk/_build/latest?definitionId=3) 
-
