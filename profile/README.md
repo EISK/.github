@@ -17,6 +17,6 @@ Utilities and code samples as provided in EISK have intentionally been designed 
 * Getting Started ([docs](https://eisk.github.io/eisk.webapi/docs/get-started/index.html))
 * Web API on Cloud ([demo](https://eisk-webapi.azurewebsites.net/index.html))
 * Web API with .NET ([source](https://github.com/EISK/eisk.webapi))
-* Web API with DevOps [![Build status](https://dev.azure.com/EiskOps/Eisk/_apis/build/status/Eisk-WebApi-TemplatePack-CI)](https://dev.azure.com/EiskOps/Eisk/_build/latest?definitionId=3) 
+* Web API with DevOps - [![Build status](https://dev.azure.com/EiskOps/Eisk/_apis/build/status/Eisk-WebApi-TemplatePack-CI)](https://dev.azure.com/EiskOps/Eisk/_build/latest?definitionId=3)
 
 
