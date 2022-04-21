@@ -2,17 +2,17 @@ EISK makes it easy to write scalable and secured web api on top of Microsoft's n
 
 With an optional set of customizable utility classes, samples and tools, it lets you creating new web api straight away without wide technical experience or learning curve.
 
-## Core Technology Areas
+### Core Technology Areas
 
 * ASP.NET Core (Web Api) / Entity Framework Core / C# 
 * Visual Studio 
 * Azure App Services 
 
-## Simple Use Case
+### Simple Use Case
 
 Using a simple table entity 'Employee' it demonstrates all aspect of web development including layered architecture following DDD, micro service, unit and integration tests, building and deploying in cloud environment. 
 
-## What's Next?
+### What's Next?
 
 Next - you can try some hands-on experience by creating your own api on top of your custom entity and see how quickly you can roll out an enterprise quality web api with similar quality and productivity. 
 
