@@ -4,7 +4,7 @@ With an optional set of customizable utility classes, samples and tools, it lets
 
 ### Core Technology Areas
 
-ASP.NET Core (Web Api) / Entity Framework Core / C# / Visual Studio / Azure App Services 
+ASP.NET Core (Web Api) / Entity Framework Core / C# / Visual Studio / Azure DevOps / Azure App Services 
 
 ### Simple Use Case
 
