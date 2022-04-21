@@ -18,7 +18,7 @@ Next - you can try some hands-on experience by creating your own api on top of y
 
 Utilities and code samples as provided in EISK have intentionally been designed to be self explaining. You may still want to get deeper understanding by exploring the documentations:
 
-* [Live Demo](https://eiskwebapi.azurewebsites.net)
+* [Live Demo](https://eisk-webapi.azurewebsites.net/index.html)
 * [Getting Started](https://eisk.github.io/eisk.webapi/docs/get-started/index.html)
 
 [![Build status](https://dev.azure.com/EiskOps/Eisk/_apis/build/status/Eisk-WebApi-TemplatePack-CI)](https://dev.azure.com/EiskOps/Eisk/_build/latest?definitionId=3) 
